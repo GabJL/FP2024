@@ -1,2 +1,8 @@
-# FP2024
-Repositorio para la asignatura de Fundamentos de la Programación (Grupo A de Grado de Ingeniería de la Salud - UMA)
+# Fundamentos de la Programación
+
+En este repositorio se irán subiendo los códigos desarrollados durante la docencia de la asignatura Fundamentos de la Programación (Grupo A - Ingeniería de la Salud - UMA).
+
+## Clases
+
+### Tema 1
+* Clase 1 (11/9): Presentación y conceptos de algoritmo y visión información de programación en python.
