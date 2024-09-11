@@ -5,4 +5,4 @@ En este repositorio se irán subiendo los códigos desarrollados durante la doce
 ## Clases
 
 ### Tema 1
-* [Clase 1 (11/9)](clases/clase01/clase01.md):: Presentación y conceptos de algoritmo y visión información de programación en python.
+* [Clase 1 (11/9)](clases/clase01/clase01.md): Presentación y conceptos de algoritmo y visión información de programación en python.
