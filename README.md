@@ -6,3 +6,6 @@ En este repositorio se irán subiendo los códigos desarrollados durante la doce
 
 ### Tema 1
 * [Clase 1 (11/9)](clases/clase01/clase01.md): Presentación y conceptos de algoritmo y visión información de programación en python.
+
+### Tema 2:
+* Clase 2 (16/09): Conceptos básicos: variables, tipos, identificadores y tipos. Operaciones básicas en python: print, conversión de tipos, expresiones matemáticas.
