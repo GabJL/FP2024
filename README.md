@@ -16,6 +16,7 @@ En este repositorio se irán subiendo los códigos desarrollados durante la doce
 * [Clase 4 (23/09)](clases/clase04/clase04.md): Condiciones lógicas. Ejercicios. Introducción a las sentencias de selección.
 * [Clase 5 (27/09)](clases/clase05/clase05.md): Sentencias de selección.
 * [Clase 6 (30/09)](clases/clase06/clase06.md): Repaso de las sentencias de selección especialmente prestando atención a la sentencia de selección múltiple. También se empezó con la sentencia de repetición `while`.
+* [Clase 7 (02/10)](clases/c07/c07.md): Seguimos con la sentencia de repetición `while`.
 
 ## Prácticas
 * [Práctica 1](prácticas/p1/p1.md): Repasar conceptos básicos de python como son los identificadores, las variables, los tipos o el uso de expresiones básicas.
