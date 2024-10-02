@@ -180,7 +180,7 @@ if es_correcto:
 
 *Lea los coeficientes y calcule el discriminante (b*b-4ac). Posteriormente use una sentencia de selección múltiple para identificar los casos (únalos cuando sea posible) y calcule las soluciones.*
 
-En este caso no se desarrolló el código pero si se identificaron los casos correspondientes:
+En este caso no se desarrolló el código pero se da pistas sobre los casos correspondientes:
 * Hay una situación en la que hay infinitas soluciones
     * Si a, b y c son 0
 * Hay dos situaciones en las que no hay solución (al menos real)
