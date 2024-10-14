@@ -19,6 +19,10 @@ En este repositorio se irán subiendo los códigos desarrollados durante la doce
 * [Clase 7 (02/10)](clases/c07/c07.md): Seguimos con la sentencia de repetición `while`.
 * [Clase 8 (07/10)](clases/clase08/clase08.md): Tras repasar el bucle `bucle` y especialmente la lectura adelantada, vemos el segundo tipo de sentencia de repetición, el bucle `for` y hacemos ejercicios: cambiando los rangos del bucle, ejercicios de figuras y ejercicios cortos (entre los que se incluye el factorial).
 * [Clase 9 (09/10)](clases/c09/c09.md): Ejercicios avanzados y de parciales de otros años sobre bucles.
+* [Clase 10 (14/10)](clases/c10/c10_3.md): Un par de ejercicios de repaso de bucles.
+ 
+### Tema 4
+* [Clase 10 (14/10)](clases/c10/c10_4.md): Introducción a los subprogramas. Creación de funciones. Ejercicios.
 
 ## Prácticas
 * [Práctica 1](prácticas/p1/p1.md): Repasar conceptos básicos de python como son los identificadores, las variables, los tipos o el uso de expresiones básicas.
