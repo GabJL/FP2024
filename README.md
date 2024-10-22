@@ -28,3 +28,6 @@ En este repositorio se irán subiendo los códigos desarrollados durante la doce
 * [Práctica 1](prácticas/p1/p1.md): Repasar conceptos básicos de python como son los identificadores, las variables, los tipos o el uso de expresiones básicas.
 * [Práctica 2](prácticas/p2/p2.md): Sentencias de selección.
 * [Práctica 3](prácticas/p3/p3.md): Sentencias de Iteración (I)
+
+## Actividades de evaluación:
+* [Primer parcial](evaluación/p1.md): Parcial temas 1-3.
