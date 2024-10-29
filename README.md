@@ -23,6 +23,7 @@ En este repositorio se irán subiendo los códigos desarrollados durante la doce
  
 ### Tema 4
 * [Clase 10 (14/10)](clases/c10/c10_4.md): Introducción a los subprogramas. Creación de funciones. Ejercicios.
+* [Clase 11 (28/10)](clases/c11/c11.md): Procedimientos. Ejercicios.
 
 ## Prácticas
 * [Práctica 1](prácticas/p1/p1.md): Repasar conceptos básicos de python como son los identificadores, las variables, los tipos o el uso de expresiones básicas.
