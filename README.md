@@ -27,6 +27,7 @@ En este repositorio se irán subiendo los códigos desarrollados durante la doce
 * [Clase 12 (30/10)](clases/c12/c12.md): Funciones que devuelven múltiples parámetros. Diseño de programas con funciones.
 
 ### Tema 5
+* [Clase 13 (04/11)](clases/c13/c13.md): Introducción al conceptos de listas. Creación y recorridos.
 
 ## Prácticas
 * [Práctica 1](prácticas/p1/p1.md): Repasar conceptos básicos de python como son los identificadores, las variables, los tipos o el uso de expresiones básicas.
