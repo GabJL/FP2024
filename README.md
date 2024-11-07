@@ -29,6 +29,7 @@ En este repositorio se irán subiendo los códigos desarrollados durante la doce
 ### Tema 5
 * [Clase 13 (04/11)](clases/c13/c13.md): Introducción al conceptos de listas. Creación y recorridos.
 * [Clase 14 (05/11)](clases/c14/c14.md): Ejercicios de recorridos. Cómo modificar las listas.
+* [Clase 15 (06/11)](clases/c15/c15.md): Ejercicios avanzados de listas.
 
 ## Prácticas
 * [Práctica 1](prácticas/p1/p1.md): Repasar conceptos básicos de python como son los identificadores, las variables, los tipos o el uso de expresiones básicas.
