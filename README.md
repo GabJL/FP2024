@@ -32,7 +32,7 @@ En este repositorio se irán subiendo los códigos desarrollados durante la doce
 * [Clase 15 (06/11)](clases/c15/c15.md): Ejercicios avanzados de listas.
 
 ### Tema 6
-* [Clase 16 (11/11)](): Introducción al tipo string (`str`). División de textos con `split`.
+* [Clase 16 (11/11)](clases/c16/c16.md): Introducción al tipo string (`str`). División de textos con `split` y textos con formatos `f-str`.
 
 ## Prácticas
 * [Práctica 1](prácticas/p1/p1.md): Repasar conceptos básicos de python como son los identificadores, las variables, los tipos o el uso de expresiones básicas.
