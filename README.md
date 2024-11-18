@@ -33,7 +33,7 @@ En este repositorio se irán subiendo los códigos desarrollados durante la doce
 
 ### Tema 6
 * [Clase 16 (11/11)](clases/c16/c16.md): Introducción al tipo string (`str`). División de textos con `split` y textos con formatos `f-str`.
-
+* [Clase 17 (18/11)](clases/c17/c17.md): Ejercicios de strings.
 ## Prácticas
 * [Práctica 1](prácticas/p1/p1.md): Repasar conceptos básicos de python como son los identificadores, las variables, los tipos o el uso de expresiones básicas.
 * [Práctica 2](prácticas/p2/p2.md): Sentencias de selección.
