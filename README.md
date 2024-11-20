@@ -36,7 +36,7 @@ En este repositorio se irán subiendo los códigos desarrollados durante la doce
 * [Clase 17 (18/11)](clases/c17/c17.md): Ejercicios de strings.
 
 ### Tema 7:
-[Clase 18 (20/11)](clases/c18/c18.md): Concepto y uso de diccionarios. Creación de diccionarios.
+* [Clase 18 (20/11)](clases/c18/c18.md): Concepto y uso de diccionarios. Creación de diccionarios.
 
 ## Prácticas
 * [Práctica 1](prácticas/p1/p1.md): Repasar conceptos básicos de python como son los identificadores, las variables, los tipos o el uso de expresiones básicas.
