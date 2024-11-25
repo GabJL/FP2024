@@ -37,6 +37,7 @@ En este repositorio se irán subiendo los códigos desarrollados durante la doce
 
 ### Tema 7:
 * [Clase 18 (20/11)](clases/c18/c18.md): Concepto y uso de diccionarios. Creación de diccionarios.
+* [Clase 19 (25/11)](clases/c19/c19.md): Listas de Diccionario. Ejercicio de Spotify.
 
 ## Prácticas
 * [Práctica 1](prácticas/p1/p1.md): Repasar conceptos básicos de python como son los identificadores, las variables, los tipos o el uso de expresiones básicas.
