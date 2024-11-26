@@ -47,6 +47,7 @@ En este repositorio se irán subiendo los códigos desarrollados durante la doce
 * [Práctica 5](prácticas/p5/p5.md): Funciones.
 * [Práctica 6](prácticas/p6/p6.md): Listas.
 * [Práctica 7](prácticas/p7/p7.md): String.
+* [Práctica 8](prácticas/p8/p8.md): Lista de diccionarios.
 
 
 ## Actividades de evaluación:
