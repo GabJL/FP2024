@@ -15,3 +15,68 @@ Salud: dict = {
 
 # Ejercicio 4
 peli = "en Deadpool & Wolverine == Action, Comedy, Science Fiction == Shawn Levy == Lewis Tan, Ed Kear, Nick Pauley, Hugh Jackman == 128.0 200000000.0 1337900827.0 7.7 24-7-2024 == A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine. "
+
+# Código inicial: ejercicio 4
+# FUnciones
+def analizar_peli(peli_texto: str) -> dict:
+    # Separar datos
+    idioma: str = peli_texto[:2]
+    resto: str = peli_texto[3:]
+    titulo, generos, directores, actores, datos, descripción = resto.split("==")
+    generos: list = generos.split(",")
+    directores: list = directores.split(",")
+    actores: list = actores.split(",")
+    duración, coste, recaudación, puntuación, fecha = datos.split()
+    dia, mes, año = fecha.split("-")
+    # Limpiar los datos y convertir
+    idioma = idioma.strip()
+    titulo = titulo.strip()
+    for i in range(len(generos)):
+        generos[i] = generos[i].strip()
+    for i in range(len(directores)):
+        directores[i] = directores[i].strip()
+    for i in range(len(actores)):
+        actores[i] = actores[i].strip()
+    duración = float(duración)
+    coste = float(coste)
+    recaudación = float(recaudación)
+    puntuación = float(puntuación)
+    dia = int(dia)
+    mes = int(mes)
+    año = int(año)
+    descripción = descripción.strip()
+    # Creamos diccionario
+    peli: dict = {
+        "idioma": idioma,
+        "título": titulo,
+        "géneros": generos,
+        "directores": directores,
+        "actores": actores,
+        "duración": duración,
+        "presupuesto": coste,
+        "recaudación": recaudación,
+        "puntuación": puntuación,
+        "día": dia,
+        "mes": mes,
+        "año": año
+    }
+    # Devolver diccionario
+    return peli
+
+def leer_fichero_pelis(nombre: str) -> list:
+    # abrir el fichero
+    fichero = open(nombre, encoding="utf-8")
+    lista_pelis: list = []
+    # Leer el fichero línea a línea
+    for peli in fichero:
+        lista_pelis.append(analizar_peli(peli))     
+    # Cerrar el fichero
+    fichero.close()
+    return lista_pelis
+    
+    
+# Programa principal
+peli = "en Deadpool & Wolverine == Action, Comedy, Science Fiction == Shawn Levy == Lewis Tan, Ed Kear, Nick Pauley, Hugh Jackman == 128.0 200000000.0 1337900827.0 7.7 24-7-2024 == A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine. "
+print(analizar_peli(peli))
+lista_películas: list = leer_fichero_pelis("pelis.txt")
+print(lista_películas[0])
