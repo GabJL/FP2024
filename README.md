@@ -40,6 +40,9 @@ En este repositorio se irán subiendo los códigos desarrollados durante la doce
 * [Clase 19 (25/11)](clases/c19/c19.md): Listas de Diccionario. Ejercicio de Spotify.
 * [Clase 20 (2/12)](clases/c20/c20.md): Cálculo de máximo/mínimo en diccionarios. Diccionarios de Listas. Ejercicio de Películas.
 
+### Tema 8:
+* [Clase 21 (03/12)](clases/c21/c21.md): Introducción a ficheros. Ejercicios de ficheros.
+
 ## Prácticas
 * [Práctica 1](prácticas/p1/p1.md): Repasar conceptos básicos de python como son los identificadores, las variables, los tipos o el uso de expresiones básicas.
 * [Práctica 2](prácticas/p2/p2.md): Sentencias de selección.
