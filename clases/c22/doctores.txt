@@ -1,0 +1,8 @@
+Dr. Aitor Tilla # digestivo # 0 0 1 0 0.5 0 0 2 1 1.5
+Dr. Neuro Nita # neurología # 1 0 2 1 0 1.5 0 0.5 0 1
+Dr. Ana Tomía # cardiología # 1 0 0.5 2 0 1 0 0 0.5 0
+Dr. Max Tilino # traumatología # 0 0 1.5 2 1 0 0 1 1 0
+Dr. Alfredo Sanzwich # digestivo # 0 1 0.5 0 1 2 0 0 1 0.5
+Dr. Emma Torroide # traumatología # 1 0 0.5 0 2 1.5 0 0 0 0
+Dr. Karl Diaco # cardiología # 0 0.5 1 0 0 0 2 1.5 0 1
+Dr. Diana Menta # neurología # 0 1 0.5 1 0 2 0 0 1.5 0
