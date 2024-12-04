@@ -42,6 +42,7 @@ En este repositorio se irán subiendo los códigos desarrollados durante la doce
 
 ### Tema 8:
 * [Clase 21 (03/12)](clases/c21/c21.md): Introducción a ficheros. Ejercicios de ficheros.
+* [Clase 22 (04/12)](clases/c22/c22.md): Ejercicios de examen de ficheros.
 
 ## Prácticas
 * [Práctica 1](prácticas/p1/p1.md): Repasar conceptos básicos de python como son los identificadores, las variables, los tipos o el uso de expresiones básicas.
