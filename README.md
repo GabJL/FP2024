@@ -59,3 +59,4 @@ En este repositorio se irán subiendo los códigos desarrollados durante la doce
 ## Actividades de evaluación:
 * [Primer parcial](evaluación/p1.md): Parcial temas 1-3.
 * [Segundo parcial](evaluación/p2.md): Parcial todos los temas.
+* [Primera convocatoria ordinaria](evaluación/enero.md): Examen del 16/1/2025.
